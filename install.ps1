@@ -15,8 +15,11 @@ $Files = @(
     'unhide-taskbar.bat',
     'icon/lock.ico',
     'lockscreen/Invisble.Lock.Screen.scr',
+    'desktopicons/DesktopIcons.ps1',
     'nircmd/nircmd.exe',
-    'thide/thide.exe'
+    'thide/thide.exe',
+    'thide/LICENSE.txt',
+    'thide/README-PORTABLE.txt'
 )
 
 # Enable TLSv1.2 for compatibility with older clients
