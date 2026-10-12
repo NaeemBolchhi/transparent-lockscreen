@@ -17,9 +17,7 @@ $Files = @(
     'lockscreen/Invisble.Lock.Screen.scr',
     'desktopicons/DesktopIcons.ps1',
     'nircmd/nircmd.exe',
-    'thide/thide.exe',
-    'thide/LICENSE.txt',
-    'thide/README-PORTABLE.txt'
+    'thide/thide.exe'
 )
 
 # Enable TLSv1.2 for compatibility with older clients
